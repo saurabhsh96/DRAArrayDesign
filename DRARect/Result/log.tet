@@ -1,0 +1,552 @@
+=== BEGIN SESSION ==========================================================
+[09:30:05] Build: 64bit; Number: 20171026; ID: 2018.0 Release from 2017-10-26 (change 556462); Date: 2017-10-26
+[09:30:05] ACIS version: 27.0.2
+[09:30:05] SPAresabs = 9.9999999999999995e-07
+[09:30:05] SPAresnor = 1.0000000000000000e-10
+[09:30:05] Reading entity list
+[09:30:05] Choosing Advanced Boolean Loop...
+[09:30:05] Volume Attributes enabled
+[09:30:05] Attaching Volume Attributes
+[09:30:05] Sorted out 80 special bodies.
+[09:30:05] Processing 4 entities.
+[09:30:05] Queue Size: 1
+[09:30:05] Combining "antenna:DR" and "antenna:coax" (Pair #1 out of 2)
+[09:30:05] Adding "antenna:groundplane" to "antenna:probe" (Pair #2 out of 2)
+[09:30:05] Processing 2 entities.
+[09:30:05] Queue Size: 1
+[09:30:05] Adding Compound Body to Compound Body (Pair #1 out of 1)
+[09:30:05] Exiting Boolean Unite Module.
+[09:30:05] Added Compound Body (ID: 15, 8, 20, 28) to model
+[09:30:05] Added "background material" (ID: 1) to model
+[09:30:05] Added "background material (extended)" (ID: 32) to model
+[09:30:05] Added "background material (extended)" (ID: 39) to model
+[09:30:05] Added "background material (extended)" (ID: 46) to model
+[09:30:05] Added "background material (extended)" (ID: 53) to model
+[09:30:05] Added "background material (extended)" (ID: 60) to model
+[09:30:05] Added "background material (extended)" (ID: 67) to model
+[09:30:05] Added "background material (extended)" (ID: 74) to model
+[09:30:05] Added "background material (extended)" (ID: 81) to model
+[09:30:05] Added "background material (extended)" (ID: 88) to model
+[09:30:05] Added "background material (extended)" (ID: 95) to model
+[09:30:05] Added "background material (extended)" (ID: 102) to model
+[09:30:05] Added "background material (extended)" (ID: 109) to model
+[09:30:05] Added "background material (extended)" (ID: 116) to model
+[09:30:05] Added "background material (extended)" (ID: 123) to model
+[09:30:05] Added "background material (extended)" (ID: 130) to model
+[09:30:05] Added "background material (extended)" (ID: 137) to model
+[09:30:05] Added "background material (extended)" (ID: 144) to model
+[09:30:05] Added "background material (extended)" (ID: 151) to model
+[09:30:05] Added "background material (extended)" (ID: 158) to model
+[09:30:05] Added "background material (extended)" (ID: 165) to model
+[09:30:05] Added "background material (extended)" (ID: 172) to model
+[09:30:06] Added "background material (extended)" (ID: 179) to model
+[09:30:06] Added "background material (extended)" (ID: 186) to model
+[09:30:06] Added "background material (extended)" (ID: 193) to model
+[09:30:06] Added "background material (extended)" (ID: 200) to model
+[09:30:06] Added "background material (extended)" (ID: 207) to model
+[09:30:06] Added "background material (extended)" (ID: 214) to model
+[09:30:06] Added "background material (extended)" (ID: 221) to model
+[09:30:06] Added "background material (extended)" (ID: 228) to model
+[09:30:06] Added "background material (extended)" (ID: 235) to model
+[09:30:06] Added "background material (extended)" (ID: 242) to model
+[09:30:06] Added "background material (extended)" (ID: 249) to model
+[09:30:06] Added "background material (extended)" (ID: 256) to model
+[09:30:06] Added "background material (extended)" (ID: 263) to model
+[09:30:06] Added "background material (extended)" (ID: 270) to model
+[09:30:06] Added "background material (extended)" (ID: 277) to model
+[09:30:06] Added "background material (extended)" (ID: 284) to model
+[09:30:06] Added "background material (extended)" (ID: 291) to model
+[09:30:06] Added "background material (extended)" (ID: 298) to model
+[09:30:06] Added "background material (extended)" (ID: 305) to model
+[09:30:06] Added "background material (extended)" (ID: 312) to model
+[09:30:06] Added "background material (extended)" (ID: 319) to model
+[09:30:06] Added "background material (extended)" (ID: 326) to model
+[09:30:06] Added "background material (extended)" (ID: 333) to model
+[09:30:06] Added "background material (extended)" (ID: 340) to model
+[09:30:06] Added "background material (extended)" (ID: 347) to model
+[09:30:06] Added "background material (extended)" (ID: 354) to model
+[09:30:06] Added "background material (extended)" (ID: 361) to model
+[09:30:06] Added "background material (extended)" (ID: 368) to model
+[09:30:06] Added "background material (extended)" (ID: 375) to model
+[09:30:06] Added "background material (extended)" (ID: 382) to model
+[09:30:06] Added "background material (extended)" (ID: 389) to model
+[09:30:06] Added "background material (extended)" (ID: 396) to model
+[09:30:06] Added "background material (extended)" (ID: 403) to model
+[09:30:06] Added "background material (extended)" (ID: 410) to model
+[09:30:06] Added "background material (extended)" (ID: 417) to model
+[09:30:06] Added "background material (extended)" (ID: 424) to model
+[09:30:06] Added "background material (extended)" (ID: 431) to model
+[09:30:06] Added "background material (extended)" (ID: 438) to model
+[09:30:06] Added "background material (extended)" (ID: 445) to model
+[09:30:06] Added "background material (extended)" (ID: 452) to model
+[09:30:06] Added "background material (extended)" (ID: 459) to model
+[09:30:06] Added "background material (extended)" (ID: 466) to model
+[09:30:06] Added "background material (extended)" (ID: 473) to model
+[09:30:06] Added "background material (extended)" (ID: 480) to model
+[09:30:06] Added "background material (extended)" (ID: 487) to model
+[09:30:06] Added "background material (extended)" (ID: 494) to model
+[09:30:06] Added "background material (extended)" (ID: 501) to model
+[09:30:06] Added "background material (extended)" (ID: 508) to model
+[09:30:06] Added "background material (extended)" (ID: 515) to model
+[09:30:06] Added "background material (extended)" (ID: 522) to model
+[09:30:06] Added "background material (extended)" (ID: 529) to model
+[09:30:06] Added "background material (extended)" (ID: 536) to model
+[09:30:06] Added "background material (extended)" (ID: 543) to model
+[09:30:06] Added "background material (extended)" (ID: 550) to model
+[09:30:06] Added "background material (extended)" (ID: 557) to model
+[09:30:06] Added "background material (extended)" (ID: 564) to model
+[09:30:06] Added "background material (extended)" (ID: 571) to model
+[09:30:06] Added "waveguide port 1" (ID: 2219) to model
+[09:30:06] - Attribute database stats:
+ Vertex UIDs = 103(first = 1, last = 103)
+, Edge UIDs = 203(first = 104, last = 306)
+, Face UIDs = 143(first = 307, last = 449)
+, Cell UIDs = 33(first = 450, last = 482)
+
+[09:30:06] Using new attribute mapping scheme
+[09:30:06] WARNING: Equivalent EIDs 536, 543, 550, 557, 564, 571 resolved to 536
+[09:30:06] WARNING: Equivalent EIDs 494, 501, 508, 515, 522, 529 resolved to 494
+[09:30:06] WARNING: Equivalent EIDs 452, 459, 466, 473, 480, 487 resolved to 452
+[09:30:06] WARNING: Equivalent EIDs 410, 417, 424, 431, 438, 445 resolved to 410
+[09:30:06] WARNING: Equivalent EIDs 368, 375, 382, 389, 396, 403 resolved to 368
+[09:30:06] WARNING: Equivalent EIDs 326, 333, 340, 347, 354, 361 resolved to 326
+[09:30:06] WARNING: Equivalent EIDs 284, 291, 298, 305, 312, 319 resolved to 284
+[09:30:06] WARNING: Equivalent EIDs 242, 249, 256, 263, 270, 277 resolved to 242
+[09:30:06] WARNING: Equivalent EIDs 228, 235 resolved to 228
+[09:30:06] WARNING: Equivalent EIDs 214, 221 resolved to 214
+[09:30:06] WARNING: Equivalent EIDs 200, 207 resolved to 200
+[09:30:06] WARNING: Equivalent EIDs 186, 193 resolved to 186
+[09:30:06] WARNING: Equivalent EIDs 172, 179 resolved to 172
+[09:30:06] WARNING: Equivalent EIDs 158, 165 resolved to 158
+[09:30:06] WARNING: Equivalent EIDs 144, 151 resolved to 144
+[09:30:06] WARNING: Equivalent EIDs 130, 137 resolved to 130
+[09:30:06] WARNING: Equivalent EIDs 116, 123 resolved to 116
+[09:30:06] WARNING: Equivalent EIDs 102, 109 resolved to 102
+[09:30:06] WARNING: Equivalent EIDs 88, 95 resolved to 88
+[09:30:06] WARNING: Equivalent EIDs 74, 81 resolved to 74
+[09:30:06] Skipping wire containment calculation.
+[09:30:06] - Reading information
+[09:30:06] - Storing model cells
+[09:30:06] - OK
+[09:30:06] Creating ModelDatabase
+[09:30:06] Problem class: High Frequency
+[09:30:06] - Mesh sizes: global mesh size near to model = 3.6114183025014599e+00
+              min requested = 3.0385479519153535e+00
+              max requested = 9.6087323076923070e+00
+[09:30:06] - OK
+[09:30:06] -- Building object info
+[09:30:06] -- OK
+[09:30:06] Temporary directory: "O:\Antennas\Project\DRARect\Temp\1-temp.tet"
+[09:30:06] [CADSurf] Section started.
+[09:30:06] [CADSurf] MeshGems Version: MeshGems-Core 2.4-1
+[09:30:06] [CADSurf] === Begin: PreCAD-related parameters ===
+[09:30:06] [CADSurf] == CADSurf Parameters == 
+[09:30:06] [CADSurf] meshgems_cadsurf_set_param(css, "use_precad",  "yes")
+[09:30:06] [CADSurf] Bounding box diagonal = 1.5563632128039461e+02
+[09:30:06] [CADSurf] meshgems_cadsurf_set_param(css, "remove_nano_edges",  "0")
+[09:30:06] [CADSurf] meshgems_cadsurf_set_param(css, "discard_input_topology",  "0")
+[09:30:06] [CADSurf] meshgems_cadsurf_set_param(css, "process_3d_topology",  "0")
+[09:30:06] [CADSurf] meshgems_cadsurf_set_param(css, "discard_input_2d_topology",  "0")
+[09:30:06] [CADSurf] Default periodic tolerance (1e-5*diag) = 1.5563632128039462e-03
+[09:30:06] [CADSurf] Minimum periodic tolerance = 1.0000000000000001e-05
+[09:30:06] [CADSurf] Setting it to max( 1.0000000000000001e-05, 1.5563632128039462e-03 )
+[09:30:06] [CADSurf] meshgems_cadsurf_set_param(css, "periodic_tolerance",  "0.0015563632128039462")
+[09:30:06] [CADSurf] meshgems_cadsurf_set_param(css, "remove_duplicate_cad_faces",  "0")
+[09:30:06] [CADSurf] meshgems_cadsurf_set_param(css, "remove_tiny_uv_edges",  "0")
+[09:30:06] [CADSurf] === End: PreCAD-related parameters ===
+[09:30:06] [CADSurf] ==
+[09:30:06] [CADSurf] == CADSurf Parameters == 
+[09:30:06] [CADSurf] meshgems_cadsurf_set_param(css, "verbose",  "3")
+[09:30:06] [CADSurf] meshgems_cadsurf_set_param(css, "geometric_size_mode",  "local")
+[09:30:06] [CADSurf] meshgems_cadsurf_set_param(css, "physical_size_mode",  "local")
+[09:30:06] [CADSurf] 	 Max user size    = 9.6087323076923070e+00
+[09:30:06] [CADSurf] 	 Global size near = 3.6114183025014599e+00
+[09:30:06] [CADSurf] 	 Global size far  = 9.6087323076923070e+00
+[09:30:06] [CADSurf] 	 Upper size bound = 9.6087323076923070e+00
+[09:30:06] [CADSurf] meshgems_cadsurf_set_param(css, "max_size",  "9.608732307692307")
+[09:30:06] [CADSurf] 	Calculating min. mesh size for CADSurf...
+[09:30:06] [CADSurf] 	Diagonal of model + background box: 1.5563632128039461e+02
+[09:30:06] [CADSurf] 	Min. mesh size by diagonal (1e-3 x diagonal): 1.5563632128039462e-01
+[09:30:06] [CADSurf] 	Diagonal of model: 5.2118781038729132e+01
+[09:30:06] [CADSurf] 	Min. mesh size of model: 3.0385479519153535e+00
+[09:30:06] [CADSurf] 	Max. cell defined by user (near to model): 3.6114183025014599e+00
+[09:30:06] [CADSurf] 	Min. cell defined by user: 0.0000000000000000e+00
+[09:30:06] [CADSurf] 	Min. cell used for calculation: 3.6114183025014603e-02
+[09:30:06] [CADSurf] 	Note: min. mesh size by diagonal is too large, consider using (0.01 x max. cell = 3.6114183025014596e-02)
+[09:30:06] [CADSurf] Geometric refinement uses "min_size" setting.
+[09:30:06] [CADSurf] CADSurf "min_size" is set to min. cell: 3.6114183025014603e-02
+[09:30:06] [CADSurf] meshgems_cadsurf_set_param(css, "min_size",  "0.036114183025014603")
+[09:30:06] [CADSurf] meshgems_cadsurf_set_param(css, "max_number_of_points_per_patch",  "0")
+[09:30:06] [CADSurf] meshgems_cadsurf_set_param(css, "element_generation",  "local")
+[09:30:06] [CADSurf] Setting Triangle as default element type
+[09:30:06] [CADSurf] meshgems_cadsurf_set_param(css, "gradation",  "2")
+[09:30:06] [CADSurf] meshgems_cadsurf_set_param(css, "volume_gradation",  "2")
+[09:30:06] [CADSurf] meshgems_cadsurf_set_param(css, "patch_independent",  "0")
+[09:30:06] [CADSurf] meshgems_cadsurf_set_param(css, "remove_tiny_edges",  "0")
+[09:30:06] [CADSurf] meshgems_cadsurf_set_param(css, "optimise_tiny_edges",  "0")
+[09:30:06] [CADSurf] meshgems_cadsurf_set_param(css, "tiny_edge_respect_geometry",  "1")
+[09:30:06] [CADSurf] meshgems_cadsurf_set_param(css, "CheckWellDefined",  "8")
+[09:30:06] [CADSurf] meshgems_cadsurf_set_param(css, "anisotropic",  "1")
+[09:30:06] [CADSurf] meshgems_cadsurf_set_param(css, "anisotropic_ratio",  "5")
+[09:30:06] [CADSurf] meshgems_cadsurf_set_param(css, "correct_surface_intersections",  "1")
+[09:30:06] [CADSurf] meshgems_cadsurf_set_param(css, "intersection_processing_max_cost",  "15")
+[09:30:06] [CADSurf] ==
+[09:30:06] [CADSurf] Status: OK
+[09:30:06] [CADSurf] Number of intersecting edges: 0, total edge count: 732
+[09:30:06] [CADSurf] Number of intersecting faces: 0
+[09:30:06] [CADSurf] - Mesh stats: N=1581, E=732, T=3674, Q=0
+[09:30:06] [CADSurf] Testing watertightness
+[09:30:06] [CADSurf] - OK
+[09:30:06] [CADSurf] Section finished. Time (s): 0.25
+[09:30:06] Labeling mesh entities
+[09:30:06] Creating volume mesh from surface mesh - begin
+[09:30:06] - Submitting for meshing subdomain 1 of 29
+[09:30:06]      Name: "background material"
+[09:30:06]      File: sd_0
+[09:30:06] MeshGems:Loop:: Preparing worker for subdomain "background material"
+[09:30:06] MeshGems:Loop:: Added worker for subdomain "background material" to the workers list
+[09:30:06] - Submitting for meshing subdomain 2 of 29
+[09:30:06]      Name: "background material (extended)"
+[09:30:06]      File: sd_1
+[09:30:06] MeshGems:Loop:: Preparing worker for subdomain "background material (extended)"
+[09:30:06] MeshGems:Loop:: Added worker for subdomain "background material (extended)" to the workers list
+[09:30:06] - Submitting for meshing subdomain 3 of 29
+[09:30:06]      Name: "background material (extended)"
+[09:30:06]      File: sd_2
+[09:30:06] MeshGems:Loop:: Preparing worker for subdomain "background material (extended)"
+[09:30:06] MeshGems:Loop:: Added worker for subdomain "background material (extended)" to the workers list
+[09:30:06] - Submitting for meshing subdomain 4 of 29
+[09:30:06]      Name: "background material (extended)"
+[09:30:06]      File: sd_3
+[09:30:06] MeshGems:Loop:: Preparing worker for subdomain "background material (extended)"
+[09:30:06] MeshGems:Loop:: Added worker for subdomain "background material (extended)" to the workers list
+[09:30:06] - Submitting for meshing subdomain 5 of 29
+[09:30:06]      Name: "background material (extended)"
+[09:30:06]      File: sd_4
+[09:30:06] MeshGems:Loop:: Preparing worker for subdomain "background material (extended)"
+[09:30:06] MeshGems:Loop:: Added worker for subdomain "background material (extended)" to the workers list
+[09:30:06] - Submitting for meshing subdomain 6 of 29
+[09:30:06]      Name: "background material (extended)"
+[09:30:06]      File: sd_5
+[09:30:06] MeshGems:Loop:: Preparing worker for subdomain "background material (extended)"
+[09:30:06] MeshGems:Loop:: Added worker for subdomain "background material (extended)" to the workers list
+[09:30:06] - Submitting for meshing subdomain 7 of 29
+[09:30:06]      Name: "background material (extended)"
+[09:30:06]      File: sd_6
+[09:30:06] MeshGems:Loop:: Preparing worker for subdomain "background material (extended)"
+[09:30:06] MeshGems:Loop:: Added worker for subdomain "background material (extended)" to the workers list
+[09:30:06] - Submitting for meshing subdomain 8 of 29
+[09:30:06]      Name: "background material (extended)"
+[09:30:06]      File: sd_7
+[09:30:06] MeshGems:Loop:: Preparing worker for subdomain "background material (extended)"
+[09:30:06] MeshGems:Loop:: Added worker for subdomain "background material (extended)" to the workers list
+[09:30:06] - Submitting for meshing subdomain 9 of 29
+[09:30:06]      Name: "background material (extended)"
+[09:30:06]      File: sd_8
+[09:30:06] MeshGems:Loop:: Preparing worker for subdomain "background material (extended)"
+[09:30:06] MeshGems:Loop:: Added worker for subdomain "background material (extended)" to the workers list
+[09:30:06] - Submitting for meshing subdomain 10 of 29
+[09:30:06]      Name: "background material (extended)"
+[09:30:06]      File: sd_9
+[09:30:06] MeshGems:Loop:: Preparing worker for subdomain "background material (extended)"
+[09:30:06] MeshGems:Loop:: Added worker for subdomain "background material (extended)" to the workers list
+[09:30:06] - Submitting for meshing subdomain 11 of 29
+[09:30:06]      Name: "background material (extended)"
+[09:30:06]      File: sd_10
+[09:30:06] MeshGems:Loop:: Preparing worker for subdomain "background material (extended)"
+[09:30:06] MeshGems:Loop:: Added worker for subdomain "background material (extended)" to the workers list
+[09:30:06] - Submitting for meshing subdomain 12 of 29
+[09:30:06]      Name: "background material (extended)"
+[09:30:06]      File: sd_11
+[09:30:06] MeshGems:Loop:: Preparing worker for subdomain "background material (extended)"
+[09:30:06] MeshGems:Loop:: Added worker for subdomain "background material (extended)" to the workers list
+[09:30:06] - Submitting for meshing subdomain 13 of 29
+[09:30:06]      Name: "background material (extended)"
+[09:30:06]      File: sd_12
+[09:30:06] MeshGems:Loop:: Preparing worker for subdomain "background material (extended)"
+[09:30:06] MeshGems:Loop:: Added worker for subdomain "background material (extended)" to the workers list
+[09:30:06] - Submitting for meshing subdomain 14 of 29
+[09:30:06]      Name: "background material (extended)"
+[09:30:06]      File: sd_13
+[09:30:06] MeshGems:Loop:: Preparing worker for subdomain "background material (extended)"
+[09:30:06] MeshGems:Loop:: Added worker for subdomain "background material (extended)" to the workers list
+[09:30:06] - Submitting for meshing subdomain 15 of 29
+[09:30:06]      Name: "background material (extended)"
+[09:30:06]      File: sd_14
+[09:30:06] MeshGems:Loop:: Preparing worker for subdomain "background material (extended)"
+[09:30:06] MeshGems:Loop:: Added worker for subdomain "background material (extended)" to the workers list
+[09:30:06] - Submitting for meshing subdomain 16 of 29
+[09:30:06]      Name: "background material (extended)"
+[09:30:06]      File: sd_15
+[09:30:06] MeshGems:Loop:: Preparing worker for subdomain "background material (extended)"
+[09:30:06] MeshGems:Loop:: Added worker for subdomain "background material (extended)" to the workers list
+[09:30:06] - Submitting for meshing subdomain 17 of 29
+[09:30:06]      Name: "background material (extended)"
+[09:30:06]      File: sd_16
+[09:30:06] MeshGems:Loop:: Preparing worker for subdomain "background material (extended)"
+[09:30:06] MeshGems:Loop:: Added worker for subdomain "background material (extended)" to the workers list
+[09:30:06] - Submitting for meshing subdomain 18 of 29
+[09:30:06]      Name: "background material (extended)"
+[09:30:06]      File: sd_17
+[09:30:06] MeshGems:Loop:: Preparing worker for subdomain "background material (extended)"
+[09:30:06] MeshGems:Loop:: Added worker for subdomain "background material (extended)" to the workers list
+[09:30:06] - Submitting for meshing subdomain 19 of 29
+[09:30:06]      Name: "background material (extended)"
+[09:30:06]      File: sd_18
+[09:30:06] MeshGems:Loop:: Preparing worker for subdomain "background material (extended)"
+[09:30:06] MeshGems:Loop:: Added worker for subdomain "background material (extended)" to the workers list
+[09:30:06] - Submitting for meshing subdomain 20 of 29
+[09:30:06]      Name: "background material (extended)"
+[09:30:06]      File: sd_19
+[09:30:06] MeshGems:Loop:: Preparing worker for subdomain "background material (extended)"
+[09:30:06] MeshGems:Loop:: Added worker for subdomain "background material (extended)" to the workers list
+[09:30:06] - Submitting for meshing subdomain 21 of 29
+[09:30:06]      Name: "background material (extended)"
+[09:30:06]      File: sd_20
+[09:30:06] MeshGems:Loop:: Preparing worker for subdomain "background material (extended)"
+[09:30:06] MeshGems:Loop:: Added worker for subdomain "background material (extended)" to the workers list
+[09:30:06] - Submitting for meshing subdomain 22 of 29
+[09:30:06]      Name: "background material (extended)"
+[09:30:06]      File: sd_21
+[09:30:06] MeshGems:Loop:: Preparing worker for subdomain "background material (extended)"
+[09:30:06] MeshGems:Loop:: Added worker for subdomain "background material (extended)" to the workers list
+[09:30:06] - Submitting for meshing subdomain 23 of 29
+[09:30:06]      Name: "background material (extended)"
+[09:30:06]      File: sd_22
+[09:30:06] MeshGems:Loop:: Preparing worker for subdomain "background material (extended)"
+[09:30:06] MeshGems:Loop:: Added worker for subdomain "background material (extended)" to the workers list
+[09:30:06] - Submitting for meshing subdomain 24 of 29
+[09:30:06]      Name: "background material (extended)"
+[09:30:06]      File: sd_23
+[09:30:06] MeshGems:Loop:: Preparing worker for subdomain "background material (extended)"
+[09:30:06] MeshGems:Loop:: Added worker for subdomain "background material (extended)" to the workers list
+[09:30:06] - Submitting for meshing subdomain 25 of 29
+[09:30:06]      Name: "antenna:DR"
+[09:30:06]      File: sd_24
+[09:30:06] MeshGems:Loop:: Preparing worker for subdomain "antenna:DR"
+[09:30:06] MeshGems:Loop:: Added worker for subdomain "antenna:DR" to the workers list
+[09:30:06] - Submitting for meshing subdomain 26 of 29
+[09:30:06]      Name: "background material"
+[09:30:06]      File: sd_29
+[09:30:06] MeshGems:Loop:: Preparing worker for subdomain "background material"
+[09:30:06] MeshGems:Loop:: Added worker for subdomain "background material" to the workers list
+[09:30:06] - Submitting for meshing subdomain 27 of 29
+[09:30:06]      Name: "background material (extended)"
+[09:30:06]      File: sd_30
+[09:30:06] MeshGems:Loop:: Preparing worker for subdomain "background material (extended)"
+[09:30:06] MeshGems:Loop:: Added worker for subdomain "background material (extended)" to the workers list
+[09:30:06] - Submitting for meshing subdomain 28 of 29
+[09:30:06]      Name: "background material (extended)"
+[09:30:06]      File: sd_31
+[09:30:06] MeshGems:Loop:: Preparing worker for subdomain "background material (extended)"
+[09:30:06] MeshGems:Loop:: Added worker for subdomain "background material (extended)" to the workers list
+[09:30:06] - Submitting for meshing subdomain 29 of 29
+[09:30:06]      Name: "background material (extended)"
+[09:30:06]      File: sd_32
+[09:30:06] MeshGems:Loop:: Preparing worker for subdomain "background material (extended)"
+[09:30:06] MeshGems:Loop:: Added worker for subdomain "background material (extended)" to the workers list
+[09:30:06] Volume meshing: 6 threads will be allocated to mesh 29 sub-domains.
+[09:30:06] Usable physical memory (bytes):    6572777472
+[09:30:06] Available physical memory (bytes): 6572777472
+[09:30:06] Number of cores: 6
+[09:30:06] MeshGems:Loop:: Entering the Run function with 6 threads.
+[09:30:06] MeshGems:Loop:: Created pool to process workers
+[09:30:06] MeshGems:Loop:: Added  worker (subdomain "background material") to the pool
+[09:30:06] MeshGems:Loop:: Added  worker (subdomain "background material (extended)") to the pool
+[09:30:06] MeshGems:Loop:: Added  worker (subdomain "background material (extended)") to the pool
+[09:30:06] MeshGems:Loop:: Added  worker (subdomain "background material (extended)") to the pool
+[09:30:06] MeshGems:Loop:: Added  worker (subdomain "background material (extended)") to the pool
+[09:30:06] MeshGems:Loop:: Added  worker (subdomain "background material (extended)") to the pool
+[09:30:06] MeshGems:Loop:: Added  worker (subdomain "background material (extended)") to the pool
+[09:30:06] MeshGems:Loop:: Added  worker (subdomain "background material (extended)") to the pool
+[09:30:06] MeshGems:Loop:: Added  worker (subdomain "background material (extended)") to the pool
+[09:30:06] MeshGems:Loop:: Added  worker (subdomain "background material (extended)") to the pool
+[09:30:06] MeshGems:Loop:: Added  worker (subdomain "background material (extended)") to the pool
+[09:30:06] MeshGems:Loop:: Added  worker (subdomain "background material (extended)") to the pool
+[09:30:06] MeshGems:Loop:: Added  worker (subdomain "background material (extended)") to the pool
+[09:30:06] MeshGems:Loop:: Added  worker (subdomain "background material (extended)") to the pool
+[09:30:06] MeshGems:Loop:: Added  worker (subdomain "background material (extended)") to the pool
+[09:30:06] MeshGems:Loop:: Added  worker (subdomain "background material (extended)") to the pool
+[09:30:06] MeshGems:Loop:: Added  worker (subdomain "background material (extended)") to the pool
+[09:30:06] MeshGems:Loop:: Added  worker (subdomain "background material (extended)") to the pool
+[09:30:06] MeshGems:Loop:: Added  worker (subdomain "background material (extended)") to the pool
+[09:30:06] MeshGems:Loop:: Added  worker (subdomain "background material (extended)") to the pool
+[09:30:06] MeshGems:Loop:: Added  worker (subdomain "background material (extended)") to the pool
+[09:30:06] MeshGems:Loop:: Added  worker (subdomain "background material (extended)") to the pool
+[09:30:06] MeshGems:Loop:: Added  worker (subdomain "background material (extended)") to the pool
+[09:30:06] MeshGems:Loop:: Added  worker (subdomain "background material (extended)") to the pool
+[09:30:06] MeshGems:Loop:: Added  worker (subdomain "antenna:DR") to the pool
+[09:30:06] MeshGems:Loop:: Added  worker (subdomain "background material") to the pool
+[09:30:06] MeshGems:Loop:: Added  worker (subdomain "background material (extended)") to the pool
+[09:30:06] MeshGems:Loop:: Added  worker (subdomain "background material (extended)") to the pool
+[09:30:06] MeshGems:Loop:: Added  worker (subdomain "background material (extended)") to the pool
+[09:30:06] MeshGems:Launcher: Starting Command: O:\Antennas\cst18\bin\Solver\AMD64\AppRunner_AMD64.exe --interval 1000 --parent 23256 --command "O:\Antennas\cst18\bin\Solver\AMD64\mg-tetra_AMD64.exe --components outside_components --in sd_0 --key c0857585b1e6a3a25540be50a609ef685cb6904ddba7001ad9969ac5560f3f3057aab5089157abe5989e911f4f45f406c265a77b3cf25ded19 --max_memory 2048 --out sd_0_out.meshb -Dcpropa=2 -H-1:9.60873:2 -b -t -v 0" --output "sd_0_out.txt"
+[09:30:06] MeshGems:Launcher: Starting Command: O:\Antennas\cst18\bin\Solver\AMD64\AppRunner_AMD64.exe --interval 1000 --parent 23256 --command "O:\Antennas\cst18\bin\Solver\AMD64\mg-tetra_AMD64.exe --components outside_components --in sd_1 --key c0857585b1e6a3a25540be50a609ef685cb6904ddba7001ad9969ac5560f3f3057aab5089157abe5989e911f4f45f406c2eda66f3c7a5cf919 --max_memory 2048 --out sd_1_out.meshb -Dcpropa=2 -H-1:9.60873:2 -b -t -v 0" --output "sd_1_out.txt"
+[09:30:06] MeshGems:Launcher: Starting Command: O:\Antennas\cst18\bin\Solver\AMD64\AppRunner_AMD64.exe --interval 1000 --parent 23256 --command "O:\Antennas\cst18\bin\Solver\AMD64\mg-tetra_AMD64.exe --components outside_components --in sd_3 --key c0857585b1e6a3a25540be50a609ef685cb6904ddba7001ad9969ac5560f3f3057aab5089157abe5989e911f4f45f406c2eda66f3c7a5cf919 --max_memory 2048 --out sd_3_out.meshb -Dcpropa=2 -H-1:9.60873:2 -b -t -v 0" --output "sd_3_out.txt"
+[09:30:06] MeshGems:Launcher: Starting Command: O:\Antennas\cst18\bin\Solver\AMD64\AppRunner_AMD64.exe --interval 1000 --parent 23256 --command "O:\Antennas\cst18\bin\Solver\AMD64\mg-tetra_AMD64.exe --components outside_components --in sd_2 --key c0857585b1e6a3a25540be50a609ef685cb6904ddba7001ad9969ac5560f3f3057aab5089157abe5989e911f4f45f406c2eda66f3c7a5cf919 --max_memory 2048 --out sd_2_out.meshb -Dcpropa=2 -H-1:9.60873:2 -b -t -v 0" --output "sd_2_out.txt"
+[09:30:06] MeshGems:Launcher: Starting Command: O:\Antennas\cst18\bin\Solver\AMD64\AppRunner_AMD64.exe --interval 1000 --parent 23256 --command "O:\Antennas\cst18\bin\Solver\AMD64\mg-tetra_AMD64.exe --components outside_components --in sd_4 --key c0857585b1e6a3a25540be50a609ef685cb6904ddba7001ad9969ac5560f3f3057aab5089157abe5989e911f4f45f406c2eda66f3c7a5cf919 --max_memory 2048 --out sd_4_out.meshb -Dcpropa=2 -H-1:9.60873:2 -b -t -v 0" --output "sd_4_out.txt"
+[09:30:06] MeshGems:Launcher: Starting Command: O:\Antennas\cst18\bin\Solver\AMD64\AppRunner_AMD64.exe --interval 1000 --parent 23256 --command "O:\Antennas\cst18\bin\Solver\AMD64\mg-tetra_AMD64.exe --components outside_components --in sd_5 --key c0857585b1e6a3a25540be50a609ef685cb6904ddba7001ad9969ac5560f3f3057aab5089157abe5989e911f4f45f406c2eda66f3c7a5cf919 --max_memory 2048 --out sd_5_out.meshb -Dcpropa=2 -H-1:9.60873:2 -b -t -v 0" --output "sd_5_out.txt"
+[09:30:06] MeshGems: MessageParser: Unclassified Message: %% UNABLE TO ALLOCATE MEMORY
+[09:30:06] MeshGems:Launcher: run number 1 of mg-tetra failed, attempting new run: AUTO_MEM_RESTART.
+[09:30:06] MeshGems:Launcher: Requesting Restart.
+[09:30:06] MeshGems:Loop:: Processing Restart Requests
+[09:30:06] MeshGems:Launcher: Starting Command: O:\Antennas\cst18\bin\Solver\AMD64\AppRunner_AMD64.exe --interval 1000 --parent 23256 --command "O:\Antennas\cst18\bin\Solver\AMD64\mg-tetra_AMD64.exe --components outside_components --in sd_6 --key c0857585b1e6a3a25540be50a609ef685cb6904ddba7001ad9969ac5560f3f3057aab5089157abe5989e911f4f45f406c2eda66f3c7a5cf919 --max_memory 2048 --out sd_6_out.meshb -Dcpropa=2 -H-1:9.60873:2 -b -t -v 0" --output "sd_6_out.txt"
+[09:30:06] MeshGems:Loop:: Restarting GHS3D in single threaded mode
+[09:30:06] MeshGems:Loop:: Waiting until the workers pool is empty
+[09:30:07] MeshGems:Launcher: Starting Command: O:\Antennas\cst18\bin\Solver\AMD64\AppRunner_AMD64.exe --interval 1000 --parent 23256 --command "O:\Antennas\cst18\bin\Solver\AMD64\mg-tetra_AMD64.exe --components outside_components --in sd_7 --key c0857585b1e6a3a25540be50a609ef685cb6904ddba7001ad9969ac5560f3f3057aab5089157abe5989e911f4f45f406c2eda66f3c7a5cf919 --max_memory 2048 --out sd_7_out.meshb -Dcpropa=2 -H-1:9.60873:2 -b -t -v 0" --output "sd_7_out.txt"
+[09:30:07] MeshGems:Launcher: Starting Command: O:\Antennas\cst18\bin\Solver\AMD64\AppRunner_AMD64.exe --interval 1000 --parent 23256 --command "O:\Antennas\cst18\bin\Solver\AMD64\mg-tetra_AMD64.exe --components outside_components --in sd_8 --key c0857585b1e6a3a25540be50a609ef685cb6904ddba7001ad9969ac5560f3f3057aab5089157abe5989e911f4f45f406c2eda66f3c7a5cf919 --max_memory 2048 --out sd_8_out.meshb -Dcpropa=2 -H-1:9.60873:2 -b -t -v 0" --output "sd_8_out.txt"
+[09:30:07] MeshGems:Launcher: Starting Command: O:\Antennas\cst18\bin\Solver\AMD64\AppRunner_AMD64.exe --interval 1000 --parent 23256 --command "O:\Antennas\cst18\bin\Solver\AMD64\mg-tetra_AMD64.exe --components outside_components --in sd_9 --key c0857585b1e6a3a25540be50a609ef685cb6904ddba7001ad9969ac5560f3f3057aab5089157abe5989e911f4f45f406c2d1a6173c465c8119 --max_memory 2048 --out sd_9_out.meshb -Dcpropa=2 -H-1:9.60873:2 -b -t -v 0" --output "sd_9_out.txt"
+[09:30:07] MeshGems:Launcher: Starting Command: O:\Antennas\cst18\bin\Solver\AMD64\AppRunner_AMD64.exe --interval 1000 --parent 23256 --command "O:\Antennas\cst18\bin\Solver\AMD64\mg-tetra_AMD64.exe --components outside_components --in sd_10 --key c0857585b1e6a3a25540be50a609ef685cb6904ddba7001ad9969ac5560f3f3057aab5089157abe5989e911f4f45f406c2d1a6173c465c8119 --max_memory 2048 --out sd_10_out.meshb -Dcpropa=2 -H-1:9.60873:2 -b -t -v 0" --output "sd_10_out.txt"
+[09:30:07] MeshGems:Launcher: Starting Command: O:\Antennas\cst18\bin\Solver\AMD64\AppRunner_AMD64.exe --interval 1000 --parent 23256 --command "O:\Antennas\cst18\bin\Solver\AMD64\mg-tetra_AMD64.exe --components outside_components --in sd_11 --key c0857585b1e6a3a25540be50a609ef685cb6904ddba7001ad9969ac5560f3f3057aab5089157abe5989e911f4f45f406c2d1a6173c465c8119 --max_memory 2048 --out sd_11_out.meshb -Dcpropa=2 -H-1:9.60873:2 -b -t -v 0" --output "sd_11_out.txt"
+[09:30:07] MeshGems:Launcher: Starting Command: O:\Antennas\cst18\bin\Solver\AMD64\AppRunner_AMD64.exe --interval 1000 --parent 23256 --command "O:\Antennas\cst18\bin\Solver\AMD64\mg-tetra_AMD64.exe --components outside_components --in sd_12 --key c0857585b1e6a3a25540be50a609ef685cb6904ddba7001ad9969ac5560f3f3057aab5089157abe5989e911f4f45f406c2d1a6173c465c8119 --max_memory 2048 --out sd_12_out.meshb -Dcpropa=2 -H-1:9.60873:2 -b -t -v 0" --output "sd_12_out.txt"
+[09:30:07] MeshGems:Launcher: Starting Command: O:\Antennas\cst18\bin\Solver\AMD64\AppRunner_AMD64.exe --interval 1000 --parent 23256 --command "O:\Antennas\cst18\bin\Solver\AMD64\mg-tetra_AMD64.exe --components outside_components --in sd_13 --key c0857585b1e6a3a25540be50a609ef685cb6904ddba7001ad9969ac5560f3f3057aab5089157abe5989e911f4f45f406c2c1a6373c565ca119 --max_memory 2048 --out sd_13_out.meshb -Dcpropa=2 -H-1:9.60873:2 -b -t -v 0" --output "sd_13_out.txt"
+[09:30:07] MeshGems:Launcher: Starting Command: O:\Antennas\cst18\bin\Solver\AMD64\AppRunner_AMD64.exe --interval 1000 --parent 23256 --command "O:\Antennas\cst18\bin\Solver\AMD64\mg-tetra_AMD64.exe --components outside_components --in sd_14 --key c0857585b1e6a3a25540be50a609ef685cb6904ddba7001ad9969ac5560f3f3057aab5089157abe5989e911f4f45f406c2c1a6373c565ca119 --max_memory 2048 --out sd_14_out.meshb -Dcpropa=2 -H-1:9.60873:2 -b -t -v 0" --output "sd_14_out.txt"
+[09:30:07] MeshGems:Launcher: Starting Command: O:\Antennas\cst18\bin\Solver\AMD64\AppRunner_AMD64.exe --interval 1000 --parent 23256 --command "O:\Antennas\cst18\bin\Solver\AMD64\mg-tetra_AMD64.exe --components outside_components --in sd_15 --key c0857585b1e6a3a25540be50a609ef685cb6904ddba7001ad9969ac5560f3f3057aab5089157abe5989e911f4f45f406c2c1a6373c565ca119 --max_memory 2048 --out sd_15_out.meshb -Dcpropa=2 -H-1:9.60873:2 -b -t -v 0" --output "sd_15_out.txt"
+[09:30:07] MeshGems:Launcher: Starting Command: O:\Antennas\cst18\bin\Solver\AMD64\AppRunner_AMD64.exe --interval 1000 --parent 23256 --command "O:\Antennas\cst18\bin\Solver\AMD64\mg-tetra_AMD64.exe --components outside_components --in sd_16 --key c0857585b1e6a3a25540be50a609ef685cb6904ddba7001ad9969ac5560f3f3057aab5089157abe5989e911f4f45f406c2c1a6373c565ca119 --max_memory 2048 --out sd_16_out.meshb -Dcpropa=2 -H-1:9.60873:2 -b -t -v 0" --output "sd_16_out.txt"
+[09:30:07] MeshGems:Launcher: Starting Command: O:\Antennas\cst18\bin\Solver\AMD64\AppRunner_AMD64.exe --interval 1000 --parent 23256 --command "O:\Antennas\cst18\bin\Solver\AMD64\mg-tetra_AMD64.exe --components outside_components --in sd_17 --key c0857585b1e6a3a25540be50a609ef685cb6904ddba7001ad9969ac5560f3f3057aab5089157abe5989e911f4f45f406c2c1a6373c565ca119 --max_memory 2048 --out sd_17_out.meshb -Dcpropa=2 -H-1:9.60873:2 -b -t -v 0" --output "sd_17_out.txt"
+[09:30:07] MeshGems:Launcher: Starting Command: O:\Antennas\cst18\bin\Solver\AMD64\AppRunner_AMD64.exe --interval 1000 --parent 23256 --command "O:\Antennas\cst18\bin\Solver\AMD64\mg-tetra_AMD64.exe --components outside_components --in sd_18 --key c0857585b1e6a3a25540be50a609ef685cb6904ddba7001ad9969ac5560f3f3057aab5089157abe5989e911f4f45f406c2c1a6373c565ca119 --max_memory 2048 --out sd_18_out.meshb -Dcpropa=2 -H-1:9.60873:2 -b -t -v 0" --output "sd_18_out.txt"
+[09:30:07] MeshGems:Launcher: Starting Command: O:\Antennas\cst18\bin\Solver\AMD64\AppRunner_AMD64.exe --interval 1000 --parent 23256 --command "O:\Antennas\cst18\bin\Solver\AMD64\mg-tetra_AMD64.exe --components outside_components --in sd_19 --key c0857585b1e6a3a25540be50a609ef685cb6904ddba7001ad9969ac5560f3f3057aab5089157abe5989e911f4f45f406c2c1a6373c565ca119 --max_memory 2048 --out sd_19_out.meshb -Dcpropa=2 -H-1:9.60873:2 -b -t -v 0" --output "sd_19_out.txt"
+[09:30:07] MeshGems:Launcher: Starting Command: O:\Antennas\cst18\bin\Solver\AMD64\AppRunner_AMD64.exe --interval 1000 --parent 23256 --command "O:\Antennas\cst18\bin\Solver\AMD64\mg-tetra_AMD64.exe --components outside_components --in sd_20 --key c0857585b1e6a3a25540be50a609ef685cb6904ddba7001ad9969ac5560f3f3057aab5089157abe5989e911f4f45f406c2c1a6373c565ca119 --max_memory 2048 --out sd_20_out.meshb -Dcpropa=2 -H-1:9.60873:2 -b -t -v 0" --output "sd_20_out.txt"
+[09:30:07] MeshGems:Launcher: Starting Command: O:\Antennas\cst18\bin\Solver\AMD64\AppRunner_AMD64.exe --interval 1000 --parent 23256 --command "O:\Antennas\cst18\bin\Solver\AMD64\mg-tetra_AMD64.exe --components outside_components --in sd_21 --key c0857585b1e6a3a25540be50a609ef685cb6904ddba7001ad9969ac5560f3f3057aab5089157abe5989e911f4f45f406c28ba6ab3c1c5c3d19 --max_memory 2048 --out sd_21_out.meshb -Dcpropa=2 -H-1:9.60873:2 -b -t -v 0" --output "sd_21_out.txt"
+[09:30:07] MeshGems:Launcher: Starting Command: O:\Antennas\cst18\bin\Solver\AMD64\AppRunner_AMD64.exe --interval 1000 --parent 23256 --command "O:\Antennas\cst18\bin\Solver\AMD64\mg-tetra_AMD64.exe --components outside_components --in sd_22 --key c0857585b1e6a3a25540be50a609ef685cb6904ddba7001ad9969ac5560f3f3057aab5089157abe5989e911f4f45f406c2afa6f33c385c6519 --max_memory 2048 --out sd_22_out.meshb -Dcpropa=2 -H-1:9.60873:2 -b -t -v 0" --output "sd_22_out.txt"
+[09:30:07] MeshGems:Launcher: Starting Command: O:\Antennas\cst18\bin\Solver\AMD64\AppRunner_AMD64.exe --interval 1000 --parent 23256 --command "O:\Antennas\cst18\bin\Solver\AMD64\mg-tetra_AMD64.exe --components outside_components --in sd_23 --key c0857585b1e6a3a25540be50a609ef685cb6904ddba7001ad9969ac5560f3f3057aab5089157abe5989e911f4f45f406c2afa6f33c385c6519 --max_memory 2048 --out sd_23_out.meshb -Dcpropa=2 -H-1:9.60873:2 -b -t -v 0" --output "sd_23_out.txt"
+[09:30:07] MeshGems:Launcher: Starting Command: O:\Antennas\cst18\bin\Solver\AMD64\AppRunner_AMD64.exe --interval 1000 --parent 23256 --command "O:\Antennas\cst18\bin\Solver\AMD64\mg-tetra_AMD64.exe --components outside_components --in sd_24 --key c0857585b1e6a3a25540be50a609ef685cb6904ddba7001ad9969ac5560f3f3057aab5089157abe5989e911f4f45f406c2f9a4473d6e5ed118 --max_memory 2048 --out sd_24_out.meshb -Dcpropa=2 -H-1:3.03855:2 -b -t -v 0" --output "sd_24_out.txt"
+[09:30:07] MeshGems:Launcher: Starting Command: O:\Antennas\cst18\bin\Solver\AMD64\AppRunner_AMD64.exe --interval 1000 --parent 23256 --command "O:\Antennas\cst18\bin\Solver\AMD64\mg-tetra_AMD64.exe --components outside_components --in sd_29 --key c0857585b1e6a3a25540be50a609ef685cb6904ddba7001ad9969ac5560f3f3057aab5089157abe5989e911f4f45f406c263a3753ef459e31b --max_memory 2048 --out sd_29_out.meshb -Dcpropa=2 -H-1:9.60873:2 -b -t -v 0" --output "sd_29_out.txt"
+[09:30:07] MeshGems:Launcher: Starting Command: O:\Antennas\cst18\bin\Solver\AMD64\AppRunner_AMD64.exe --interval 1000 --parent 23256 --command "O:\Antennas\cst18\bin\Solver\AMD64\mg-tetra_AMD64.exe --components outside_components --in sd_30 --key c0857585b1e6a3a25540be50a609ef685cb6904ddba7001ad9969ac5560f3f3057aab5089157abe5989e911f4f45f406c2afa6f33c385c6519 --max_memory 2048 --out sd_30_out.meshb -Dcpropa=2 -H-1:9.60873:2 -b -t -v 0" --output "sd_30_out.txt"
+[09:30:08] MeshGems:Launcher: Starting Command: O:\Antennas\cst18\bin\Solver\AMD64\AppRunner_AMD64.exe --interval 1000 --parent 23256 --command "O:\Antennas\cst18\bin\Solver\AMD64\mg-tetra_AMD64.exe --components outside_components --in sd_31 --key c0857585b1e6a3a25540be50a609ef685cb6904ddba7001ad9969ac5560f3f3057aab5089157abe5989e911f4f45f406c2afa6f33c385c6519 --max_memory 2048 --out sd_31_out.meshb -Dcpropa=2 -H-1:9.60873:2 -b -t -v 0" --output "sd_31_out.txt"
+[09:30:08] MeshGems:Launcher: Starting Command: O:\Antennas\cst18\bin\Solver\AMD64\AppRunner_AMD64.exe --interval 1000 --parent 23256 --command "O:\Antennas\cst18\bin\Solver\AMD64\mg-tetra_AMD64.exe --components outside_components --in sd_32 --key c0857585b1e6a3a25540be50a609ef685cb6904ddba7001ad9969ac5560f3f3057aab5089157abe5989e911f4f45f406c28ba6ab3c1c5c3d19 --max_memory 2048 --out sd_32_out.meshb -Dcpropa=2 -H-1:9.60873:2 -b -t -v 0" --output "sd_32_out.txt"
+[09:30:08] MeshGems:Loop:: NiceShutdown concluded
+[09:30:08] MeshGems:Loop:: Added  worker (subdomain "background material (extended)") to the restart list
+[09:30:08] MeshGems:Loop:: Created pool to process restart workers
+[09:30:08] MeshGems:Loop:: Added  worker (subdomain "background material (extended)") to the pool
+[09:30:08] MeshGems:Launcher: Starting Command: O:\Antennas\cst18\bin\Solver\AMD64\AppRunner_AMD64.exe --interval 1000 --parent 23256 --command "O:\Antennas\cst18\bin\Solver\AMD64\mg-tetra_AMD64.exe --automatic_memory 2048 --components outside_components --in sd_1 --key c0857585b1e6a3a25540be50a609ef685cb6904ddba7001ad9969ac5560f3f3057aab5089157abe5989e911f4f45f406c2eda66f3c7a5cf919 --max_memory 4976 --out sd_1_out.meshb -Dcpropa=2 -H-1:9.60873:2 -b -t -v 0" --output "sd_1_out.txt"
+[09:30:09] MeshGems:Loop:: All workers in the WorkerPool finished
+[09:30:09] MeshGems:Loop:: Calling forced shutdown, for safety (effective if abort was requested)
+[09:30:09] MeshGems:Loop:: Pool successfully shut down
+[09:30:09] - Number of elements for sd_0_out.meshb:478
+[09:30:09] - Number of elements for sd_1_out.meshb:96
+[09:30:09] - Number of elements for sd_2_out.meshb:96
+[09:30:09] - Number of elements for sd_3_out.meshb:96
+[09:30:09] - Number of elements for sd_4_out.meshb:89
+[09:30:09] - Number of elements for sd_5_out.meshb:96
+[09:30:09] - Number of elements for sd_6_out.meshb:89
+[09:30:09] - Number of elements for sd_7_out.meshb:89
+[09:30:09] - Number of elements for sd_8_out.meshb:96
+[09:30:09] - Number of elements for sd_9_out.meshb:111
+[09:30:09] - Number of elements for sd_10_out.meshb:111
+[09:30:09] - Number of elements for sd_11_out.meshb:111
+[09:30:09] - Number of elements for sd_12_out.meshb:111
+[09:30:09] - Number of elements for sd_13_out.meshb:172
+[09:30:09] - Number of elements for sd_14_out.meshb:177
+[09:30:09] - Number of elements for sd_15_out.meshb:183
+[09:30:09] - Number of elements for sd_16_out.meshb:178
+[09:30:09] - Number of elements for sd_17_out.meshb:171
+[09:30:09] - Number of elements for sd_18_out.meshb:183
+[09:30:09] - Number of elements for sd_19_out.meshb:178
+[09:30:09] - Number of elements for sd_20_out.meshb:171
+[09:30:09] - Number of elements for sd_21_out.meshb:524
+[09:30:09] - Number of elements for sd_22_out.meshb:378
+[09:30:09] - Number of elements for sd_23_out.meshb:372
+[09:30:09] - Number of elements for sd_24_out.meshb:1550
+[09:30:09] - Number of elements for sd_29_out.meshb:5600
+[09:30:09] - Number of elements for sd_30_out.meshb:372
+[09:30:09] - Number of elements for sd_31_out.meshb:377
+[09:30:09] - Number of elements for sd_32_out.meshb:524
+[09:30:09] - Volume mesh stats: Nb nodes = 2743, Nb edges = 732, Nb surface elements = 3619, Nb tets = 12779
+[09:30:09] [DuplicateSurface] Section started.
+[09:30:09] [DuplicateSurface] Section finished. Time (s): 0.004
+[09:30:09] Creating volume mesh from surface mesh - done
+[09:30:09] Using generalized mesh output routines.
+[09:30:09] Writing Bc file
+[09:30:09] Writing gex file for volume mesh
+[09:30:09] Running model geometry simplification... 
+[09:30:09] Model geometry simplification: 0 seconds
+[09:30:09] Using generalized UID topology and model geometry output
+[09:30:09] Writing topot.tet...
+[09:30:09] Done (topot.tet)
+[09:30:09] Writing moegeom.tet ...
+[09:30:09] Done (moegeom.tet) 
+[09:30:09] Mesh curving:
+[09:30:09]     available cores:   6
+[09:30:09]     number of threads: 6 (NumberOfParallelThreads setting)
+[09:30:09] 
+#### Feedback Report Begins ####
+#### Feedback Report Ends ####
+
+[09:30:09] Done
+=== END SESSION ============================================================
+=== BEGIN SESSION ==========================================================
+[09:30:10] Build: 64bit; Number: 20171026; ID: 2018.0 Release from 2017-10-26 (change 556462); Date: 2017-10-26
+[09:30:10] ACIS version: 27.0.2
+[09:30:10] SPAresabs = 9.9999999999999995e-07
+[09:30:10] SPAresnor = 1.0000000000000000e-10
+[09:30:10] Adaptive mesh refinement (pos.snap.)
+[09:30:10] - Refining mesh
+[09:30:10] Problem class: High Frequency
+[09:30:11] - OK
+[09:30:11] 
+#### Feedback Report Begins ####
+#### Feedback Report Ends ####
+
+[09:30:11] Done
+=== END SESSION ============================================================
+=== BEGIN SESSION ==========================================================
+[09:30:12] Build: 64bit; Number: 20171026; ID: 2018.0 Release from 2017-10-26 (change 556462); Date: 2017-10-26
+[09:30:12] ACIS version: 27.0.2
+[09:30:12] SPAresabs = 9.9999999999999995e-07
+[09:30:12] SPAresnor = 1.0000000000000000e-10
+[09:30:12] Adaptive mesh refinement (pos.snap.)
+[09:30:12] - Refining mesh
+[09:30:12] Problem class: High Frequency
+[09:30:12] - OK
+[09:30:12] 
+#### Feedback Report Begins ####
+#### Feedback Report Ends ####
+
+[09:30:12] Done
+=== END SESSION ============================================================
+=== BEGIN SESSION ==========================================================
+[09:30:13] Build: 64bit; Number: 20171026; ID: 2018.0 Release from 2017-10-26 (change 556462); Date: 2017-10-26
+[09:30:13] ACIS version: 27.0.2
+[09:30:13] SPAresabs = 9.9999999999999995e-07
+[09:30:13] SPAresnor = 1.0000000000000000e-10
+[09:30:13] Adaptive mesh refinement (pos.snap.)
+[09:30:13] - Refining mesh
+[09:30:13] Problem class: High Frequency
+[09:30:14] - OK
+[09:30:14] 
+#### Feedback Report Begins ####
+#### Feedback Report Ends ####
+
+[09:30:14] Done
+=== END SESSION ============================================================
+=== BEGIN SESSION ==========================================================
+[09:30:17] Build: 64bit; Number: 20171026; ID: 2018.0 Release from 2017-10-26 (change 556462); Date: 2017-10-26
+[09:30:17] ACIS version: 27.0.2
+[09:30:17] SPAresabs = 9.9999999999999995e-07
+[09:30:17] SPAresnor = 1.0000000000000000e-10
+[09:30:17] Adaptive mesh refinement (pos.snap.)
+[09:30:17] - Refining mesh
+[09:30:17] Problem class: High Frequency
+[09:30:18] - OK
+[09:30:18] 
+#### Feedback Report Begins ####
+#### Feedback Report Ends ####
+
+[09:30:18] Done
+=== END SESSION ============================================================
+=== BEGIN SESSION ==========================================================
+[09:30:20] Build: 64bit; Number: 20171026; ID: 2018.0 Release from 2017-10-26 (change 556462); Date: 2017-10-26
+[09:30:20] ACIS version: 27.0.2
+[09:30:20] SPAresabs = 9.9999999999999995e-07
+[09:30:20] SPAresnor = 1.0000000000000000e-10
+[09:30:20] Adaptive mesh refinement (pos.snap.)
+[09:30:20] - Refining mesh
+[09:30:20] Problem class: High Frequency
+[09:30:22] - OK
+[09:30:22] 
+#### Feedback Report Begins ####
+#### Feedback Report Ends ####
+
+[09:30:22] Done
+=== END SESSION ============================================================

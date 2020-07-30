@@ -1,0 +1,15 @@
+FeatureKeywords:string:monitor:farfield:single freq, meshloading:problem_class_only, RESULTMANAGER:RESULTFLAG:0, visualization:mesh_view:legacy_engine, mesh:workflow:boolean, mesh:workflow:boolean:advanced, mesh:lib:blsurf, mesh:lib:ghs3d, mesh:lib:ghs3d:restart_singlethreaded, mesh:lib:ghs3d:enabled_automem, meshloading:tet_complete, la:precond:pdss5, la:iterative, la:parallel_excitation:block, solver:hf:fd:samples:7, background:normal, boundary:expanded open:xmax, boundary:expanded open:xmin, boundary:expanded open:ymax, boundary:expanded open:ymin, boundary:expanded open:zmax, boundary:expanded open:zmin, boundary:open:ConvPML, lineqssolver:setting:acceleratedrestart, mesh:tet, mesh:tet:curved, mesh:tet:curved:1, monitor:power:1d, solver:hf:fd, solver:hf:fd:generalpurpose:tet, solver:hf:fd:order:2, solver:hf:fd:portloss, source:waveguide port:active, source:waveguide port:internal port, units:Capacitance:pF, units:Conductance:S, units:Current:A, units:Frequency:GHz, units:Inductance:nH, units:Length:mm, units:Resistance:Ohm, units:Temperature:Kelvin, units:Time:ns, units:Voltage:V, solver:pp:sparameter:sensitivityanalysis, solver:pp:sparameter:basicbranch, solver:pp:sparameter:renorm, solver:pp:sparameter:ffbalance, solver:pp:sparameter:updatebalance, solver:pp:farfield:tet:interpolate2hex, solver:pp:farfield:1d, solver:pp:farfield:0dlist, acceleration:cpu, lineqssolver:setting:auto, lineqssolver:setting:treecotree, mesh:tet:adaptive, solver:pp:farfield:2d, DELETERESULTS:M000
+LastWorkflowState:string:tetmesh:success
+solver_hf_tet_fd/InitialFreePhysicalInMB:int:6750
+solver_hf_tet_fd/MaxResidentSizeInMB:int:478
+solver_hf_tet_fd/MaxResidentSizeMiB:int:454
+solver_hf_tet_fd/MinFreePhysicalInMB:int:6322
+solver_pp/InitialFreePhysicalInMB:int:6144
+solver_pp/MaxResidentSizeInMB:int:26
+solver_pp/MaxResidentSizeMiB:int:21
+solver_pp/MinFreePhysicalInMB:int:6127
+tetmesh/InitialFreePhysicalInMB:int:6367
+tetmesh/MaxResidentSizeInMB:int:39
+tetmesh/MaxResidentSizeMiB:int:63
+tetmesh/MinFreePhysicalInMB:int:6347
+---

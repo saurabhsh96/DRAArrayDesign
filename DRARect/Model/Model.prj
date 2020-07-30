@@ -1,0 +1,30 @@
+[Version]
+2
+[Author]
+Antenna Magus
+[Mesh Cells]
+19,117
+[Mesh Type]
+Tetrahedral
+[Last Problem Type]
+High Frequency
+[Last Solver Type]
+HF Frequency Domain
+[Last Solver Type Abb]
+f
+[Results]
+Frequency Domain: S-Parameter
+[Modeler Unique ID]
+5:drarect.cst?9553f558d0f9ed138282319fdf9a90f8?267678:numberofparameters=14:port=1>mode=1>zre=50>zim=0:::c0?coax_diameter?coax_length?dielectric_height?dielectric_length?dielectric_width?frequency_centre?input_resistance?metal_thickness?probe_diameter?probe_height?probe_inset?relative_permittivity?wavelength_centre
+[Comment]
+Project Name: Rectangular dielectric resonator antenna
+
+Date created: 30/10/2009
+
+Description:
+
+A fully parametric Transient Solver model of the antenna using a coaxial probe feed as well as a finite ground-plane.
+
+Model:
+
+The model is fed using a coaxial probe, excited with a waveguide port. The antenna is solved using the Transient Solver.
